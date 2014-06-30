@@ -1,11 +1,15 @@
 # Run some sand through your hands
 <<<<<<< HEAD
+<<<<<<< HEAD
 version 51
 =======
 <<<<<<< HEAD
 path 1 version 3
 path 3 version 1
 >>>>>>> path1
+=======
+version 6
+>>>>>>> 6f4be3e93cb98cf44ef6826b2828ba8a8304f35d
 
 Now is you chance to play around with this sample tutorial repository.  Since this is a sample repository, you can't do anything wrong.  Try both tasks below.  How you perform each task depends on whether you are using Sourcetree or another Git client.
 
